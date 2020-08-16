@@ -10,7 +10,7 @@
 
 title: Kurisv                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: En algun momento espero actualizar esto para usarlo de blog.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -22,7 +22,7 @@ url: 'https://kurisv.github.io'
 
 author: kurisv                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/yato.png   # support internet resources
 
 github:
   username: kurisv             # change to your github username
@@ -78,7 +78,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dual
+theme_mode: dark
 
 # boolean type, global switch for ToC in posts.
 toc: true
